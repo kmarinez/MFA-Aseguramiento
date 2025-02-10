@@ -34,3 +34,5 @@ def test_codigo_dinamico_incorrecto(auth_system):
 
 if __name__ == "__main__":
     pytest.main()
+
+    # Katerin Mariñez - 22-1131
