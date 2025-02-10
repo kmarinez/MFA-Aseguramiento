@@ -36,3 +36,5 @@
 - **Entrada esperada:** Código dinámico incorrecto ingresado.
 - **Resultado esperado:** `"Código incorrecto"`.
 
+Katerin Mariñez 22-1131
+
